@@ -202,6 +202,7 @@ Result:
 0 KB in bad sectors
 Windows has scanned the file system and found no problems.
 ```
+![PowerShell chkdsk](ps2.png)
 
 ---
 
@@ -214,6 +215,8 @@ SMART values after the full surface scan:
 | 05 | 40     | 40    |
 | C5 | 12     | 6     |
 | C6 | 12     | 6     |
+
+![SMART status](crystaldisk.png)
 
 ## Analysis
 
