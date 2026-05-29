@@ -110,9 +110,8 @@ format fs=ntfs quick
 assign
 exit
 ```
-## PowerShell commands
 
-![PowerShell commands](ps1.png
+![PowerShell commands](ps1.png)
 
 ## Result
 
